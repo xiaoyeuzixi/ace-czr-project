@@ -1,0 +1,17 @@
+LIBRARY tp2_stub.dll
+EXPORTS
+ tp2_sdk_init_ex
+ tp2_setuserinfo
+ tp2_setoptions
+ tp2_sdk_ioctl
+ tp2_free_anti_data
+ tss_get_report_data
+ tss_del_report_data
+ tss_get_report_data2
+ tss_get_report_data4
+ tss_del_report_data4
+ tss_recv_sec_signature
+ TssSdkInit
+ TssSdkSetUserInfo
+ TssSdkIoctl
+ TssSdkGetReportData

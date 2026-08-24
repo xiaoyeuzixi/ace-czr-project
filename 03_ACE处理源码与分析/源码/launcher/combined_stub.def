@@ -1,0 +1,25 @@
+LIBRARY ACE-Base64.dll
+EXPORTS
+ InitAceClient
+ InitAceClient0
+ InitAceClient2
+ InitAceClient3
+ InitAceClient4
+ InitAceClient5
+ NullExportFunction
+ AceStubNoop
+ AceStubNoop1
+ AceStubNoop2
+ AceStubNoop3
+ AceStubNoop4
+ tp2_sdk_init_ex
+ tp2_setuserinfo
+ tp2_setoptions
+ tp2_sdk_ioctl
+ tp2_free_anti_data
+ tss_get_report_data
+ tss_del_report_data
+ tss_get_report_data2
+ tss_get_report_data4
+ tss_del_report_data4
+ tss_recv_sec_signature

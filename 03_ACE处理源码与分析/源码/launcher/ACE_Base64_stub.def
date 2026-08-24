@@ -1,0 +1,14 @@
+LIBRARY ACE-Base64.dll
+EXPORTS
+    InitAceClient
+    InitAceClient0
+    InitAceClient2
+    InitAceClient3
+    InitAceClient4
+    InitAceClient5
+    NullExportFunction
+    AceStubNoop
+    AceStubNoop1
+    AceStubNoop2
+    AceStubNoop3
+    AceStubNoop4

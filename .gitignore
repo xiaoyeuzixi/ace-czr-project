@@ -1,0 +1,23 @@
+# Local runtime output
+04_NoACE一键启动程序/logs/
+04_NoACE一键启动程序/bin/logs/
+
+# Local Unity data junction created by the launcher
+04_NoACE一键启动程序/bin/NoAceUnityLauncher_Data
+
+# Build intermediates
+*.obj
+*.pdb
+*.ilk
+*.tlog
+*.exp
+*.lib
+
+# Python/runtime caches
+__pycache__\
+*.pyc
+.pytest_cache\
+
+# Local temporary files
+*.codex-new
+*.tmp
